@@ -99,7 +99,7 @@ export const DETAIL_CARDS = [
         title: "Wedding Ceremony",
         lines: [
             "Friday, 20 November 2026",
-            "Muhurta: 10.75 AM",
+            "Muhurta: 10.57 AM",
             "Vankhede Celebration Lawn & Hall",
             "Kalamna, Umred Road",
             "Nagpur - 441204, Maharashtra",
